@@ -25,7 +25,7 @@
 		</Item>
 		<Item Name="example.vi" Type="VI" URL="../example.vi"/>
 		<Item Name="template call.vit" Type="VI" URL="../template call.vit"/>
-		<Item Name="vi modification tool.lvclass" Type="LVClass" URL="../vi modification tool.lvclass"/>
+		<Item Name="VI modification collection.lvclass" Type="LVClass" URL="../VI modification collection.lvclass"/>
 		<Item Name="VI modification.lvclass" Type="LVClass" URL="../VI modification.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
