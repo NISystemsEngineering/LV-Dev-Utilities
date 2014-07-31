@@ -24,7 +24,6 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="example.vi" Type="VI" URL="../example.vi"/>
-		<Item Name="template call.vit" Type="VI" URL="../template call.vit"/>
 		<Item Name="VI modification collection.lvclass" Type="LVClass" URL="../VI modification collection.lvclass"/>
 		<Item Name="VI modification.lvclass" Type="LVClass" URL="../VI modification.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
