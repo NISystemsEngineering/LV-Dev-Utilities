@@ -99,4 +99,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
+	<Item Name="protect ui.vi" Type="VI" URL="../protect ui.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#P!!!!"A!%!!!!#E!B"(.U&lt;X!!!""!=!!:!!%!!16&amp;6E6/6!!G1(!!(A!!'2&gt;733"N&lt;W2J:GFD982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!#35Y!!!^!=!!A!!%!!Q!$2&amp;:3!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!%!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!3!!!!!!%!"1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1073742240</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+	</Item>
 </LVClass>

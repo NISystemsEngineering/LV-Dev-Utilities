@@ -136,6 +136,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
+	<Item Name="cosmetic ui.vi" Type="VI" URL="../cosmetic ui.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#P!!!!"A!%!!!!#E!B"(.U&lt;X!!!""!=!!:!!%!!16&amp;6E6/6!!G1(!!(A!!'2&gt;733"N&lt;W2J:GFD982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!#35Y!!!^!=!!A!!%!!Q!$2&amp;:3!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!%!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!1!!!!!!%!"1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1073742240</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
+	</Item>
 	<Item Name="get UI reference.vi" Type="VI" URL="../get UI reference.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%\!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!=!!)!!!!!A!!#6:*)&amp;*F:GZV&lt;1![1(!!(A!!'BBD&lt;X.N:82J9S"D;'&amp;O:W6T,GRW9WRB=X-!!"2D&lt;X.N:82J9S"D;'&amp;O:W6T)'^V&gt;!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!$B!=!!?!!!;''.P=WVF&gt;'FD)'.I97ZH:8-O&lt;(:D&lt;'&amp;T=Q!!%W.P=WVF&gt;'FD)'.I97ZH:8-A;7Y!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
