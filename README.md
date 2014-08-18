@@ -9,8 +9,11 @@
 This project should allow people to contribute tools they use on a daily basis for development purposes. For example, this might include quick-drop shortcuts, tools menu items, or other helpful utilities.
 
 ###Repository Overview:
-The only requirement is that new utilities should be added to the trunk. As development progresses, we may reorganize the repository in a sensible way or produce packages based on the submitted code.
- 
+LabVIEW Development Utilities is the location of the tools menu item that will be added to LabVIEW when the package installs. Other folders contain individual components and are typically installed to vi.lib. The files in "LabVIEW Development Utilities" are simple launchers.
+
+Note: Tools menu items are launched in special contexts. We've seen issues with class loading in these contexts. This loader works around the problem by loading a project (required because a project-specific conditional symbol was used):
+https://github.com/NISystemsEngineering/LV-Dev-Utilities/blob/master/Trunk/LabVIEW%20Development%20Utilities/VI%20Modifier%20Utility.vi
+Similarly, the Application.Default.Application property can be used to load items in the Main Application context.
  
 ###Contribution Workflow:
 *For a more complete workflow, view [this set-up guide](https://decibel.ni.com/content/docs/DOC-37416) and [this workflow guide](https://decibel.ni.com/content/docs/DOC-37417).*
