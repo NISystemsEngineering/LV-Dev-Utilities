@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-08-17 22:17:06" Modified_Date="2014-08-20 22:25:51" Creator="Daniel" Comments="" ID="b07116c1c0e67360ec5c0e397be9c4f8">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-08-17 22:17:06" Modified_Date="2014-08-22 15:11:59" Creator="Daniel" Comments="" ID="af995b4b78ee396df07d3a81a676fb0c">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lvdevutils</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..</Library_Output_Folder>
+    <Library_Output_Folder>..\Builds</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>BSD 2-clause</Library_License>
